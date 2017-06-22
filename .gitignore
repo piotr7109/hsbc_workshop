@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea/
+/node_modules/
+/src/target/bundle.js
+/src/db/articlesDB.json
+/src/db/usersDB.json
+/usersDB.json
+/articlesDB.json
+/db/
